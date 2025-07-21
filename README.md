@@ -49,7 +49,8 @@ Pie chart showing profit distribution by category:
 ---
 
 ### 📅 Quarterly Profit Trends
-Line chart illustrating profit fluctuations from Q1 2014 to Q4 2017, with a peak in **Q3 2016 ($38,139.9)**.
+The line chart tracks profit performance by quarter from 2014 to 2017.  
+Despite periodic fluctuations, the data reveals a **clear upward trend in profits** over the 4-year span — indicating improved business outcomes and stronger financial performance over time.
 
 ---
 
