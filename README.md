@@ -110,12 +110,12 @@ This enables exploration of performance by time and geography for tailored busin
 - 💰 **Technology** is the most profitable product category (51% of total profit)  
 - 🏆 **Vermont** leads in profitability per transaction  
 - 🧑‍💼 **Home Office** customers generate the highest average profit per sale:
--→ They also receive lower average discounts and have higher average sales per transaction — leading to strongest profit margins  
+- → They also receive lower average discounts and have higher average sales per transaction — leading to strongest profit margins  
 - 🚚 **First Class** shipping yields highest profitability  
 - 📈 Profitability shows a **clear upward trend** from 2014 to 2017, despite quarterly volatility  
 - 🔍 Inverse relationship between discount rate and profitability at the sub-category level:
--Sub-category analysis reveals margin-pressure zones like Binders, Tables, Machines, while Labels, Paper, Envelopes yield high margins with low discounts
--→ As average discount increases, average profit margin tends to decrease sharply 
+- Sub-category analysis reveals margin-pressure zones like Binders, Tables, Machines, while Labels, Paper, Envelopes yield high margins with low discounts
+- → As average discount increases, average profit margin tends to decrease sharply 
 
 ---
 
